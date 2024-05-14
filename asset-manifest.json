@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fbgroup/static/css/main.a44674ed.css",
+    "main.js": "/fbgroup/static/js/main.48beadea.js",
+    "index.html": "/fbgroup/index.html",
+    "main.a44674ed.css.map": "/fbgroup/static/css/main.a44674ed.css.map",
+    "main.48beadea.js.map": "/fbgroup/static/js/main.48beadea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a44674ed.css",
+    "static/js/main.48beadea.js"
+  ]
+}
